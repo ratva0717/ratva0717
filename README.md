@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ratva0717
-- 👀 I’m interested in exploring Data science and playing with data
-- 🌱 I’m currently learning on Machine learning
+- 👀 I’m interested in Data science and Machine learning domains.
+- 🌱 I’m extremely good at documentation.
 
 <!---
 ratva0717/ratva0717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
